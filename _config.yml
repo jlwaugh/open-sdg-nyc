@@ -13,10 +13,10 @@
 remote_theme: open-sdg/open-sdg@0.8.1
 
 # Replace this title as needed.
-title: Indicators For The Sustainable Development Goals
+title: NYC Indicators for the Sustainable Development Goals
 # Replace the baseurl with the name of this repository.
-baseurl: "/open-sdg-site-starter"
-url: "https://github.com/jlwaugh/open-sdg-site-starter/"
+baseurl: "/open-sdg-nyc"
+url: "https://github.com/jlwaugh/open-sdg-nyc"
 data_dir: data
 environment: staging
 # Replace my-github-org and open-sdg-data-starter as needed.
@@ -60,11 +60,10 @@ markdown: kramdown
 # Travis Support
 exclude: [vendor, scripts, remotedata]
 
-# International Support
-# Eg name: Australia and adjective: Australian
-country:
-  name: Australia
-  adjective: Australian
+# Support
+city:
+  name: NYC
+  adjective: New York
 
 # Optionally uncomment and update the settings below to control the frontpage heading and instructions.
 #frontpage_heading: Australian data for Sustainable Development Goal indicators
