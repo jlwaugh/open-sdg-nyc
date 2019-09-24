@@ -1,4 +1,4 @@
-# Open SDG - Site starter
+# Open SDG - NYC
 
-This is a starter repository to help in implementing the [Open SDG](https://github.com/open-sdg/open-sdg) platform. [See here for documentation](https://open-sdg.readthedocs.io).
+This repository is for implementing the [Open SDG](https://github.com/open-sdg/open-sdg) platform in the context of New York City. [Learn more by reading the official documentation](https://open-sdg.readthedocs.io).
 
